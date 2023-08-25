@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amandasilva123
+- 👋 Hi, I’m jon.snow827
 - 👀 I’m interested in ...data sciennce
 - 🌱 I’m currently learning ...python 
 - 💞️ I’m looking to collaborate on ...dont know
