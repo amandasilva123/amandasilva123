@@ -1,6 +1,6 @@
 - 👋 Hi, I’m jon.snow827
 - 👀 I’m interested in ...data sciennce
-- 🌱 I’m currently learning ...python 
+- 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...dont know
 - 📫 How to reach me ...khanneyaz50@gmail.com
 
