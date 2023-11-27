@@ -1,4 +1,4 @@
-- 👋 Hi, I’m jon.snow827
+- 👋 Hi, I’m Md Neyazuddin
 - 👀 I’m interested in ...data sciennce
 - 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...dont know
